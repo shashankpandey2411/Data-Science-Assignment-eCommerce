@@ -1,4 +1,4 @@
-# Customer Analytics and Segmentation Project
+# Data-Science eCommerce Assignment
 
 ## Overview
 Analysis of retail business data focusing on customer behavior, sales patterns, and segmentation to derive actionable business insights.
