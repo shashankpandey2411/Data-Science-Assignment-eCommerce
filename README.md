@@ -42,6 +42,3 @@ Analysis of retail business data focusing on customer behavior, sales patterns, 
 - Customer retention
 - Seasonal planning
 - Category mix enhancement
-
-## Author
-Shashank Pandey
